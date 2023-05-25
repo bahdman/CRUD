@@ -1,0 +1,8 @@
+.vscode/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.props
+*.targets
+*.txt
